@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247750076496",
+    "project_id": "sendway-297ff",
+    "storage_bucket": "sendway-297ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247750076496:android:5f95735be4d910242dc955",
+        "android_client_info": {
+          "package_name": "co.Durga.Sendway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247750076496-h5gojn6n9227m4fbobknqd2eoqr765ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ38q2ju9avsY80hMcI4cLeNiFEwEdFdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247750076496-h5gojn6n9227m4fbobknqd2eoqr765ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
